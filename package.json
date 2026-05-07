@@ -1,6 +1,6 @@
 {
   "name": "@healer-bounty-org/oidc-bounty-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Low-risk npm trusted publishing/OIDC bounty test package owned by healer-bounty-org.",
   "main": "index.js",
   "repository": {
