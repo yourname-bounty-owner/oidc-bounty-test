@@ -1,11 +1,11 @@
 {
   "name": "@healer-bounty-org/oidc-bounty-test",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Low-risk npm trusted publishing/OIDC bounty test package owned by healer-bounty-org.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourname-bounty-owner/oidc-bounty-test-mismatch.git"
+    "url": "git+https://github.com/yourname-bounty-owner/oidc-bounty-test.git"
   },
   "scripts": {
     "test": "node -e \"require('./index.js'); console.log('ok')\""
