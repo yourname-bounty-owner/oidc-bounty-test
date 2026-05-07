@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname-bounty-owner/oidc-bounty-test.git"
+    "url": "git+https://github.com/yourname-bounty-owner/oidc-bounty-test.git"
   },
   "scripts": {
     "test": "node -e \"require('./index.js'); console.log('ok')\""
