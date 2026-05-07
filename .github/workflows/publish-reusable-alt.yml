@@ -1,0 +1,15 @@
+name: Publish Reusable Alt
+
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  publish:
+    uses: ./.github/workflows/reusable-publish.yml
+    permissions:
+      id-token: write
+      contents: read
